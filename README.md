@@ -1,6 +1,6 @@
 # Decentralized Certificate Generation & Validation - No More Paper Cuts, Only Crypto Cuts! 🎓🔗
 
-![Project Banner - Maybe a cool, stylized image of a certificate with blockchain elements]
+
 
 Tired of dusty old certificates that get lost under your bed or eaten by the dog? Fed up with HR departments squinting at faded ink, wondering if your "Advanced Origami Masterclass" certificate is legit? **Fear not, future-proof professional!**
 
